@@ -6,3 +6,9 @@ ToyProject to improve skills
 * OpenCV
 
 Camera can detect your motion that folding your hands.
+
+## Web_Crawling
+* Selenium - webdriver
+* get element with xpath
+
+You can crawl review comments in playstore using webdriver
